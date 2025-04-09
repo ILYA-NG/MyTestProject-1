@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Отключаем сбор телеметрии -->
+    <DisableTelemetry>true</DisableTelemetry>
+  </PropertyGroup>
+</Project>
